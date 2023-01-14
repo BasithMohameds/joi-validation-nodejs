@@ -1,4 +1,3 @@
-// const joi = require("@hapi/joi");
 const Joi = require("joi");
 
 const authSchema = Joi.object({
